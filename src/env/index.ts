@@ -1,3 +1,3 @@
 export const env = {
-    API_URL: 'http://localhost:5001'
+    API_URL: 'https://ilumeo-api.onrender.com'
 }

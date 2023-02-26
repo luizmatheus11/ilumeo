@@ -1,6 +1,12 @@
 ## Introdução
 Essa aplicação foi feita para o processo de fullstack da ilumeo.
 
+Deploy Site: https://ilumeo.vercel.app/
+
+Credenciais
+Usuário: 4SXXFMF
+Usuário: 4STTFMF
+
 ## Instalação
 
 ```bash
